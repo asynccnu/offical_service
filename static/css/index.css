@@ -1,0 +1,334 @@
+html,body{
+    margin:0px;
+    padding:0px;
+    height: 100%;
+    width: 100%;
+    font-family: "Microsoft YaHei";
+}
+.color{
+    color: #333333;
+}
+.display{
+    display: inline-block;
+    vertical-align: middle;
+}
+.background-repeat{
+    background-repeat: no-repeat;
+}
+.auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.background-size{
+    background-size: 100%;
+}
+.inline-block{
+    display: inline-block;
+}
+.font-size{
+    font-size: 0;
+}
+.vertical-align{
+    vertical-align: top;
+}
+.text-align{
+    text-align: center;
+}
+.header{
+    width: 100%;
+    height: 511px;
+    background-image: url("../images/header.png");
+    background-color: #7B79FF;
+    background-repeat: repeat;
+    margin: 0 auto;
+    padding-top: 23px;
+}
+.content{
+    width: 1100px;
+    height: 511px;
+    margin: 0 auto;
+    background-image: url("../images/content.png");
+}
+.content-left{
+    width: 320px;
+    height: 550px;
+    margin-left: 170px;
+    margin-right: 88px;
+    margin-top: 80px;
+}
+.gif-wrapper{
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/phone_img.png");
+}
+.gif{
+    width: 70%;
+    height: 75%;
+    padding-top: 50px;
+    padding-bottom: 7px;
+    display: block;
+    margin: 0 auto;
+}
+.content-right{
+    width: 382px;
+    height: 100%;
+}
+.top{
+    width: 381px;
+    height: 112px;
+    margin-top: 132px;
+}
+.top-word{
+    width: 100%;
+    font-size: 36px;
+    font-weight: bolder;
+    color: white;
+}
+.middle{
+    width: 100%;
+    font-size: 14px;
+    font-weight: normal;
+    color: white;
+}
+.bottom{
+    width: 392px;
+    height: 122px;
+    margin-top: 50px;
+    margin-left: -10px;
+}
+.bottom-img{
+  width: 100px;
+  height: 120px;
+}
+.bottom-left{
+    background-image: url("../images/bottom-left.png");
+}
+.bottom-right{
+    margin-left: 30px;
+    background-image: url("../images/bottom-right.png");
+}
+.interface{
+    width: 1100px;
+    height: 700px;
+    margin-top: 200px;
+  }
+.advantage{
+    width: 300px;
+    margin-left: 110px;
+    padding-top: 128px;
+}
+.new-advantage{
+    font-size: 28px;
+    text-align: left;
+    margin-bottom: 70px;
+}
+.more{
+    font-size: 16px;
+    text-align: left;
+    font-weight: lighter;
+    margin-bottom: 25px;
+}
+.picture{
+    width: 680px;
+    height: 100%;
+    background-image: url("../images/picture.png");
+}
+.function{
+    width: 1000px;
+    height: 600px;
+    margin-top: 100px;
+}
+.function-top{
+    width: 100%;
+    font-size: 28px;
+}
+.function-middle{
+    width: 100%;
+    font-size: 16px;
+    font-weight: lighter;
+    margin-top: 25px;
+}
+.function-bottom{
+    width: 100%;
+    height: 400px;
+}
+.function-bottom-img{
+    width: 33%;
+    height: 100%;
+}
+.bottom-picture{
+    width: 118px;
+    height: 127px;
+    margin-top: 60px;
+    background-position: center;
+    background-size: 100%;
+}
+.bottom-picture-left{
+    margin-bottom: 40px;
+    background-image: url("../images/bottom_picture_left.png");
+}
+.bottom-picture-middle{
+    margin-bottom: 38px;
+    background-image: url("../images/bottom_picture_middle.png");
+}
+.bottom-picture-right{
+    margin-bottom: 33px;
+    background-image: url("../images/bottom_picture_right.png");
+}
+.bottom-word{
+    width: 128px;
+    margin: 0 auto;
+}
+.bottom-word-left{
+    font-size: 20px;
+}
+.bottom-word-right{
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    width: 30px;
+    font-size: 12px;
+    margin-left: 10px;
+}
+.bottom-bottom{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: lighter;
+    width: 180px;
+}
+.browse{
+    width: 100%;
+    height: 930px;
+    background-color: #FCFCFD;
+}
+.browse-top{
+    font-size: 28px;
+    padding-top: 100px;
+}
+.browse-middle{
+    font-size: 16px;
+    font-weight: lighter;
+    padding-top: 25px;
+}
+.browse-bottom{
+    width: 50%;
+    margin-top: 60px;
+    background-color: white;
+    height: 690px;
+}
+.row{
+    width: 100%;
+    height: 172px;
+}
+.block{
+    width: 33%;
+    height: 100%;
+    display: inline-block;
+}
+.blockpicture{
+    width: 160px;
+    height: 130px;
+    background-position: center;
+    background-size: 100%;
+}
+.word{
+    font-size: 20px;
+    color: #666666;
+    font-weight: lighter;
+    margin-top: -20px;
+}
+.score{
+    background-image: url("../images/score.png");
+}
+.notice{
+    background-image: url("../images/notice.png");
+}
+.electrica{
+    background-image: url("../images/electrica.png");
+}
+.card{
+    background-image: url("../images/card.png");
+}
+.computation{
+    background-image: url("../images/computation.png");
+}
+.classroom{
+    background-image: url("../images/classroom.png");
+}
+.information{
+    background-image: url("../images/information.png");
+}
+.calendar{
+    background-image: url("../images/calendar.png");
+}
+.website{
+    background-image: url("../images/website.png");
+}
+.xueer{
+    background-image: url("../images/xueer.png");
+}
+.bad{
+    background-position: center;
+    width: 48px;
+    height: 130px;
+}
+.library{
+    background-image: url("../images/library.png");
+}
+.schedule{
+    background-image: url("../images/schedule.png");
+}
+.footer{
+    width: 100%;
+    background-image: url("../images/footer-bottom.png");
+    background-color: #7B67FF;
+    background-repeat: repeat;
+}
+.bottom-top{
+    width: 100%;
+    height: 80px;
+    background-color: #FCFCFD;
+}
+.footer-container{
+    height: 100%;
+    width: 1000px;
+}
+.logopicture{
+    width: 23px;
+    height: 23px;
+    background-image: url("../images/logopicture.png");
+    background-size: 90%;
+    background-position: center;
+    margin-left: 100px;
+}
+.logoword{
+    width: auto;
+    font-size: 20px;
+    color: white;
+    font-weight: lighter;
+    margin-left: 10px;
+}
+.joinlogo{
+    width: 26px;
+    height: 26px;
+    background-image: url("../images/joinlogo.png");
+    background-position: center;
+    background-size: 80%;
+    margin-left: 300px;
+}
+.joinwho{
+    color: white;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-left: 5px;
+}
+.joinus{
+    color: white;
+    font-size: 14px;
+    margin-left: 50px;
+    text-decoration: none;
+    line-height: 90px;
+}
+a:hover{
+   color: #FF9135;
+}

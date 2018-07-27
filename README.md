@@ -1,2 +1,2 @@
-# offical_service
-[正在使用]华师匣子官网服务
+# ccnubox_fe
+ccnubox - 华师匣子官网
